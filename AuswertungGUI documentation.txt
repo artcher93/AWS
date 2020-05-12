@@ -1,0 +1,12 @@
+Ordneraufbau:
+
+siehe Ordneraufbau.png
+
+Temperatur Daten:
+
+1.Temperatur und 2.Luftdruck in PA, BMP180
+
+3. Temperatur und 4. Luftfeuchtigkeit DHT22
+
+5. Lichtintensität LDR
+ 
