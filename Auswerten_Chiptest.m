@@ -1,6 +1,6 @@
 function Auswerten_Chiptest(handles)
 
-%% Chiptest Auswertung
+%% Chiptest Auswertung Test Änderung
 folder = handles.folder;
 chiptestfileEEX = dir(fullfile(folder,'*EEX*.txt'));
 
